@@ -1,0 +1,9 @@
+-- Script Path: game:GetService("ReplicatedStorage").MotoLegends.SettingsBridge
+-- Took 0.34s to decompile.
+-- Executor: Xeno (v1.3.65)
+
+-- https://lua.expert
+
+return {
+    ready = false
+}
